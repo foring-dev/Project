@@ -1,0 +1,43 @@
+.image img{
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    float: left;
+    margin-left: 20px;
+
+}
+.img {
+    text-align: center;
+}
+
+.one {
+    border: 2px solid red;
+    background-color: red;
+    width: 200px;
+    padding: 70px;
+    justify-content: center;
+
+}
+
+.abc {
+    text-align: center;
+}
+.two {
+    border: 2px solid red;
+    background-color: red;
+    width: 200px;
+    padding: 70px;
+    margin: 30px;
+    float: left;
+
+}
+.three {
+    border: 2px solid red;
+    background-color: red;
+    width: 200px;
+    padding: 70px;
+    /* margin: 30px 20px 0px 90px; */
+    float: left;
+    margin-left: 90px;
+}
+
